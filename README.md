@@ -26,22 +26,20 @@
 
 ---
 
-## 🌟 Top Projects (Swift iOS)
+## 🌟 Top Projects
 
-### 1) iOS CRM App (Swift + SwiftUI)
-Mobile-first CRM for sales teams: leads, pipeline, tasks, and manager workflows in one clean app.
+### 1) iOS Revenue Engine (Swift)
+High-performance iOS app for sales teams: leads, deals, tasks, smart reminders, and instant quote flows. Built for speed, clarity, and real conversion impact.
 
-### 2) AI Sales Assistant for iOS
-Smart assistant that helps managers with faster replies, summaries, and next-step recommendations.
+### 2) Multi-Chain Bridge Intelligence
+Crypto infrastructure toolkit for cross-chain activity: route scoring, bridge health checks, fee/gas optimization, tx tracking, and anomaly alerts across EVM networks.
 
-### 3) Call Notes & Speech Insights (iOS)
-Speech-to-text + AI summaries + structured follow-ups directly on iPhone.
+### 3) AI-Native CRM Beast
+Next-level CRM platform with AI lead scoring, auto-prioritization, manager analytics, smart pipelines, and fully automated sales operations from first touch to close.
 
-### 4) Facade Visualizer Mobile App
-Upload building photo → get AI-generated “before/after” facade previews in seconds.
+### 4) n8n Hyper-Automation Brain
+Complex n8n + AI workflow system for business automation: omni-channel lead intake, AI qualification, auto-assignment, speech/text intelligence, and live KPI reporting to Telegram.
 
-### 5) Offline-Ready Field Sales App
-On-site sales app with offline mode, local caching, and smart sync.
 
 ---
 
