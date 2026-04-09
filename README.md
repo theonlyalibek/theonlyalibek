@@ -119,8 +119,8 @@ On-site sales app with offline mode, local caching, and smart sync.
 
 <p>
   <a href="https://github.com/theonlyalibek"><img src="https://img.shields.io/badge/GitHub-theonlyalibek-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-@your_username-26A5E4?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/theonlyalibek"><img src="https://img.shields.io/badge/Telegram-@your_username-26A5E4?style=for-the-badge&logo=telegram" /></a>
+  <a href="mailto:theonlyalibek@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
